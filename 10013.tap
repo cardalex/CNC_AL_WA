@@ -1,0 +1,14 @@
+
+(find offset by 0.01um steps)
+
+G90 G21 S20000 G17 F20
+
+M10013
+
+
+
+
+
+
+
+
