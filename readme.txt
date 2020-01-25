@@ -1,3 +1,5 @@
+Based on https://github.com/Daedelus1982/AutoLeveller
+
 1) Copy CNC FlatCAM output to ....\VMCD_16.04\CNC
 
 2) Go to linux, ~/CNC dir
